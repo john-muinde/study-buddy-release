@@ -1,7 +1,7 @@
 # Study Buddy
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Study Buddy Logo">
+  <img src="https://john-muinde.com/assets/common/img/projects/1729070791_DeUo5isTvh.png" alt="Study Buddy Logo">
 </p>
 
 Study Buddy is an innovative educational platform designed to help students learn effectively through a user-friendly mobile app. With Study Buddy, students can access study materials, collaborate with peers, and track their learning progress.
@@ -18,10 +18,10 @@ Study Buddy is an innovative educational platform designed to help students lear
 ## Screenshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/350x700" alt="Mobile App Screenshot 1" width="22%">
-  <img src="https://via.placeholder.com/350x700" alt="Mobile App Screenshot 2" width="22%">
-  <img src="https://via.placeholder.com/350x700" alt="Mobile App Screenshot 3" width="22%">
-  <img src="https://via.placeholder.com/350x700" alt="Collaborative Learning" width="22%">
+  <img src="https://john-muinde.com/assets/common/img/projects/1729070791_sYfcrNC2VQ.png" alt="Mobile App Screenshot 1" width="22%">
+  <img src="https://john-muinde.com/assets/common/img/projects/1729070791_jy3eECQ7r1.png" alt="Mobile App Screenshot 2" width="22%">
+  <img src="https://john-muinde.com/assets/common/img/projects/1729070791_ZF4Ul3IKkX.png" alt="Mobile App Screenshot 3" width="22%">
+  <img src="https://john-muinde.com/assets/common/img/projects/1729070791_6V1vAAk0GH.png" alt="Collaborative Learning" width="22%">
 </p>
 
 ## Download the App
